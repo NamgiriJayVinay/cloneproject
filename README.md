@@ -1,2 +1,0 @@
-# cloneproject
-Created with CodeSandbox
